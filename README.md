@@ -4,6 +4,8 @@ Main Data - owid-covid-data.csv.zip
 Separate Data CovidVacinations.csv.zip, CovidDeaths.zip
 Main file with Code - Main.ipynb
 
+Inspiration From:
+https://youtu.be/qfyynHBFOsM?si=M8LpGWnNXA78wi05 
 
 Code: -
 --Used to display name of colomns for refrence
